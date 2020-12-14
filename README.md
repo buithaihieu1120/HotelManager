@@ -1,6 +1,6 @@
 # HotelManager
 
-###Goals:
+### Goals:
 
 - Phần mềm ứng dụng cho máy tính cá nhân, áp dụng cho nhân viên lễ tân, bán hàng và quản lý.
 - Nhân viên lễ tân có thể tìm phòng trống theo yêu cầu trực tiếp của khách hàng, checkin, checkout cho khách và in hóa đơn thanh toán.
@@ -15,7 +15,7 @@
 - Mỗi lần thanh toán, lễ tân sẽ in hóa đơn cho lần thanh toán đó.
 - Khách hàng có thể hủy phòng nếu hủy trước ngày đến. Nếu khác hàng hủy sau ngày đặt có thể bị lưu vào danh sách đen và có thể bị từ chổi đặt phòng cho lần tiếp theo.
 
-###Business objectives
+### Business objectives
 - Hoàn thành module trong 1 tháng.
 - Chạy thử và áp dụng trong 2 tháng.
 - Đạt được yêu cầu đưa ra.
